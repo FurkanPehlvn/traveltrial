@@ -23,7 +23,7 @@ const cardData = [
   },
   {
     id: 2,
-    image: "another-image.jpg",
+    image: "tayland-maya-bay-ko-phi-phi-rehberi.jpg",
     discount: "20% OFF",
     tag: "Adventure",
     rating: 4.7,
@@ -39,7 +39,7 @@ const cardData = [
   },
   {
     id: 3,
-    image: "yet-another-image.jpg",
+    image: "tayland-maya-bay-ko-phi-phi-rehberi.jpg",
     discount: "15% OFF",
     tag: "Relaxation",
     rating: 4.8,
